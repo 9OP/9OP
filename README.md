@@ -5,7 +5,7 @@ My name is Martin and I like coding 🌱.
 
 ## ✍️ Blog
 
-I write tech articles on my blog [9op.github.io](9op.github.io).
+I write tech articles on my blog [9op.github.io](https://9op.github.io).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ff8a33)
