@@ -1,0 +1,5 @@
+[user]
+	name=Martin
+	email=martin@cardiologs.com
+[core]
+	editor = nano
